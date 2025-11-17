@@ -1,5 +1,7 @@
 # Student-Examination-Score-Analysis-
 
+Project Link 🔗 - https://www.linkedin.com/posts/shivamsingh2411_student-examination-score-analysis-python-ugcPost-7396128183860961280-IHGe?utm_source=share&utm_medium=member_android&rcm=ACoAAEF0dpUBmkORSIl77wXse21yMXJBtF_SvVA
+
 Student Examination Score Analysis 📊 | Python • Jupyter Notebook
 
 Analyzed student examination data to uncover performance trends and meaningful insights.
